@@ -1,0 +1,33 @@
+{
+  "searchEngines": [
+    {
+      "id": "google",
+      "name": "Google",
+      "url": "https://www.google.com/search?q={query}",
+      "icon": "google.png",
+      "enabled": true
+    },
+    {
+      "id": "bing",
+      "name": "Bing",
+      "url": "https://www.bing.com/search?q={query}",
+      "icon": "bing.png",
+      "enabled": true
+    },
+    {
+      "id": "baidu",
+      "name": "百度",
+      "url": "https://www.baidu.com/s?wd={query}",
+      "icon": "baidu.png",
+      "enabled": true
+    },
+    {
+      "id": "hao123",
+      "name": "hao123",
+      "url": "https://www.hao123.com/s?q={query}",
+      "icon": "hao123.png",
+      "enabled": true
+    }
+  ],
+  "defaultEngine": "google"
+}
