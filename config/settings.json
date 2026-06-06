@@ -1,0 +1,24 @@
+{
+  "general": {
+    "theme": "light",
+    "language": "en",
+    "autoUpdate": true
+  },
+  "browser": {
+    "homepage": "https://www.google.com",
+    "startupMode": "lastSession",
+    "tabsPosition": "top",
+    "fullscreenMode": false
+  },
+  "privacy": {
+    "enableHistory": true,
+    "enableCookies": true,
+    "clearHistoryOnExit": false,
+    "httpsOnly": true
+  },
+  "performance": {
+    "enableCache": true,
+    "cacheSize": 500,
+    "maxConnections": 10
+  }
+}
