@@ -1,0 +1,18 @@
+{
+  "bookmarks": [
+    {
+      "id": "1",
+      "title": "GitHub",
+      "url": "https://github.com",
+      "favicon": "",
+      "createdAt": "2026-06-06T00:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "Google",
+      "url": "https://google.com",
+      "favicon": "",
+      "createdAt": "2026-06-06T00:00:00Z"
+    }
+  ]
+}
